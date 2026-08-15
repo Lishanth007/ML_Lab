@@ -1,0 +1,21 @@
+Student_id,Age,Gender,Grade,Employed
+1,19,Male,1st Class,yes
+2,20,Female,2nd Class,no
+3,18,Male,1st Class,no
+4,21,Female,2nd Class,no
+5,19,Male,1st Class,no
+6,20,Male,2nd Class,yes
+7,19,Female,3rd Class,yes
+8,21,Male,3rd Class,yes
+9,22,Female,3rd Class,yes
+10,21,Male,1st Class,no
+11,20,Female,3rd Class,yes
+12,20,Male,1st Class,no
+13,19,Male,1st Class,yes
+14,20,Female,3rd Class,no
+15,19,Male,1st Class,yes
+16,19,Female,2nd Class,no
+17,20,Male,2nd Class,yes
+18,18,Female,3rd Class,no
+19,21,Male,2nd Class,yes
+20,19,Male,2nd Class,
