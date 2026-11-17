@@ -9,7 +9,6 @@ print (employee)
 missing=employee.isnull()
 print(missing)
 
-
 employee=employee.dropna(axis=0)
 print(employee)
 
